@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on Fake News Detection with Machine Learning
 - 🌱 I’m currently learning Nest.js for backend development
 - 👯 I’m looking to collaborate on simple to medium size projects
-- 🤔 I’m looking for help with life
+- 🤔 I’m looking for an internship
 - 📫 How to reach me: josephkarl19@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: I like adding a lot of mustard in my burger
 
 <!-- [![Joseph's Github Banner](./assets/GithubHeader.png)](https://kathulhur.github.io/portfolio) -->
 <!-- <img src="./assets/GithubHeader.png" alt="drawing" width="800"/> -->
