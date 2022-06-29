@@ -1,6 +1,6 @@
 ### Hi 👋
 # I'm Joseph Karl Crisostomo
-### Aspiring Software Engineer • Computer Science Student
+### Software Developer • Computer Science Student
 <br>
 
 - 🔭 I’m currently working on Fake News Detection with Machine Learning
