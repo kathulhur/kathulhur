@@ -3,12 +3,10 @@
 ### Software Developer • Computer Science Student
 <br>
 
-- 🔭 I’m currently working on Fake News Detection using Machine Learning
-- 🌱 I’m currently learning Nest.js for backend development
-- 🌱 I’m currently learning to transform Figma designs into webpages
-- 📖 I'm currently reading Algorithms Unlocked by Thomas Cormen
+- 🔭 I’m working on Fake News Detection using Machine Learning
+- 🌱 I’m learning Graphql with Apollo and using Typescript as the language
+- 📖 I'm reading Algorithms Unlocked by Thomas Cormen
 - 👯 I’m looking to collaborate on simple to medium size projects
-- 🤔 I’m current an intern at [dashlabs.ai](https://dashlabs.ai)
 - 📫 How to reach me: josephkarl19@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like adding a lot of mustard in my burger
