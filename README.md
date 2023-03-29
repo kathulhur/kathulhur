@@ -3,10 +3,11 @@
 ### Software Developer • Computer Science Student
 <br>
 
-- 🔭 I’m working on Fake News Detection using Machine Learning
-- 🌱 I’m learning Graphql with Apollo and using Typescript as the language
-- 📖 I'm reading Algorithms Unlocked by Thomas Cormen
+- 🔭 I’m working on a blogging website
+- 🌱 I’m solving at least 1 leetcode problem every day.
+- 📖 I'm reading Flask Web Development by Miguel Grinberg
 - 👯 I’m looking to collaborate on simple to medium size projects
+- 👯 I’m looking for an intership or a job
 - 📫 How to reach me: josephkarl19@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like adding a lot of mustard in my burger
