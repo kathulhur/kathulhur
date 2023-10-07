@@ -1,15 +1,15 @@
 ### Hi 👋
 # I'm Joseph Karl Crisostomo
-### Software Developer • Computer Science Student
+### Software Developer • Computer Science Graduate @ PUP-Manila
 <br>
 
 - 🔭 I’m working on a blogging website
-- 🌱 I’m solving at least 1 leetcode problem every day.
-- 📖 I'm reading Flask Web Development by Miguel Grinberg
+- 🌱 I'm working on my parent's inventory management system for their store
+- 📖 I'm reading SYSTEMS ANALYSIS & DESIGN by Dennis, Wixom, and Tegarden
+- 📖 I'm getting hooked on design patterns.
 - 👯 I’m looking to collaborate on simple to medium size projects
-- 👯 I’m looking for an intership or a job
+- 👯 I’m looking for a full-time job
 - 📫 How to reach me: josephkarl19@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like adding a lot of mustard in my burger
 
 <!-- [![Joseph's Github Banner](./assets/GithubHeader.png)](https://kathulhur.github.io/portfolio) -->
