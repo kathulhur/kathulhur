@@ -3,9 +3,8 @@
 ### Software Developer • Computer Science Graduate @ PUP-Manila
 <br>
 
-- 🔭 I’m working on a blogging website
 - 🌱 I'm working on my parent's inventory management system for their store
-- 📖 I'm reading SYSTEMS ANALYSIS & DESIGN by Dennis, Wixom, and Tegarden
+- 📖 I'm reading Head First Object-Oriented Analysis and Design
 - 📖 I'm getting hooked on design patterns.
 - 👯 I’m looking to collaborate on simple to medium size projects
 - 👯 I’m looking for a full-time job
