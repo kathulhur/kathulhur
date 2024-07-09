@@ -3,13 +3,12 @@
 ### Software Developer • Computer Science Graduate @ PUP-Manila
 <br>
 
-- 🌱 I'm working on my parent's inventory management system for their store
-- 📖 I'm reading Head First Object-Oriented Analysis and Design
+- 🌱 I'm currently working in Department of Science and Technology - Advanced Science and Technology Institute
+- 📖 I'm currently reading a lot about software and code architecture
 - 📖 I'm getting hooked on design patterns.
 - 👯 I’m looking to collaborate on simple to medium size projects
-- 👯 I’m looking for a full-time job
 - 📫 How to reach me: josephkarl19@gmail.com
-- ⚡ Fun fact: I like adding a lot of mustard in my burger
+- 
 
 <!-- [![Joseph's Github Banner](./assets/GithubHeader.png)](https://kathulhur.github.io/portfolio) -->
 <!-- <img src="./assets/GithubHeader.png" alt="drawing" width="800"/> -->
