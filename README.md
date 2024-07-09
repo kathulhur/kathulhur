@@ -3,9 +3,9 @@
 ### Software Developer • Computer Science Graduate @ PUP-Manila
 <br>
 
-- 🌱 I'm currently working in Department of Science and Technology - Advanced Science and Technology Institute
-- 📖 I'm currently reading a lot about software and code architecture
-- 📖 I'm getting hooked on design patterns.
+- 🌱 I'm currently working for the Department of Science and Technology - Advanced Science and Technology Institute
+- 📖 I'm reading about software and code architecture
+- 📖 I'm learning the Japanese Language on Duolingo
 - 👯 I’m looking to collaborate on simple to medium size projects
 - 📫 How to reach me: josephkarl19@gmail.com
 
