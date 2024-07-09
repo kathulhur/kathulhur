@@ -8,8 +8,8 @@
 - 📖 I'm getting hooked on design patterns.
 - 👯 I’m looking to collaborate on simple to medium size projects
 - 📫 How to reach me: josephkarl19@gmail.com
-- 
 
+  
 <!-- [![Joseph's Github Banner](./assets/GithubHeader.png)](https://kathulhur.github.io/portfolio) -->
 <!-- <img src="./assets/GithubHeader.png" alt="drawing" width="800"/> -->
 
