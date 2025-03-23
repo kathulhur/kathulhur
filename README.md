@@ -4,10 +4,9 @@
 <br>
 
 - 🌱 I'm currently working for the Department of Science and Technology - Advanced Science and Technology Institute
-- 📖 I'm reading about software and code architecture
-- 📖 I'm learning the Japanese Language on Duolingo
+- 📖 I'm reading about Software Architecture
 - 👯 I’m looking to collaborate on simple to medium size projects
-- 📫 How to reach me: josephkarl19@gmail.com
+- 📫 How to reach me joseph.dev.ph@gmail.com
 
   
 <!-- [![Joseph's Github Banner](./assets/GithubHeader.png)](https://kathulhur.github.io/portfolio) -->
