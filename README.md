@@ -1,6 +1,6 @@
 ### Hi 👋
 # I'm Joseph Karl Crisostomo
-### Software Developer • Computer Science Graduate @ PUP-Manila
+### Software Developer • BS Computer Science @ PUP-Manila
 <br>
 
 - 🌱 I'm currently working for the Department of Science and Technology - Advanced Science and Technology Institute
