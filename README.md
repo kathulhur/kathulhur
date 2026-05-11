@@ -24,17 +24,12 @@
 ### Web Development
 ![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=html5&message=HTML)
 ![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=css3&message=CSS)
+![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=Python&message=Python)
+![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=Django&message=Django)
 ![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=javascript&message=Javascript)
 ![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=typescript&message=Typescript)
-![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=mongodb&message=MongoDB)
-![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=nestjs&message=NestJs)
-![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=heroku&message=Heroku)
-
-
-### Application Development
-
-![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=.net&message=.NET)
-![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=mysql&message=MySQL)
+![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=Ruby&message=Ruby)
+![](https://img.shields.io/static/v1?label=code&style=for-the-badge&logo=RubyOnRails&message=Ruby%20On%20Rails)
 
 <Details>
 
