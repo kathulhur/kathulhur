@@ -4,7 +4,9 @@
 <br>
 
 - 🌱 I'm looking for a job.
-- 📖 I'm reading about Software Design and Ruby on Rails.
+- 💻 I'm a Software Developer.
+- 🐍 I'm primarily develop software using Python.
+- 📖 I'm exploring Software Design and Ruby on Rails.
 - 📫 How to reach me joseph.dev.ph@gmail.com
 
   
