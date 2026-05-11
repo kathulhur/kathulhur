@@ -18,48 +18,6 @@
 
 
 
-<!-- Pinned Repositories -->
-
-## Pinned Repositories
-
-<div>
-  <a href="https://github.com/kathulhur/fx-inventory-management-system">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kathulhur&repo=fx-inventory-management-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  
-  <a href="https://github.com/kathulhur/ProjectLex-InventoryManagement">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kathulhur&repo=ProjectLex-InventoryManagement&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  
-  <a href="https://github.com/kathulhur/manong-pabili">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kathulhur&repo=manong-pabili&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  
-  <a href="https://github.com/kathulhur/panahon-client">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kathulhur&repo=panahon-client&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-  
-  
-  
-  <a href="https://github.com/kathulhur/apartment-management-system">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kathulhur&repo=apartment-management-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-</div>
-<br>
-
-<!-- GitHub Stats -->
-
-<a href="https://github.com/kathulhur">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathulhur&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/kathulhur">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kathulhur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
-
-<br>
 
 ## Skills
 
