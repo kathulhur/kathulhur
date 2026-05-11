@@ -3,9 +3,8 @@
 ### Software Developer • BS Computer Science @ PUP-Manila
 <br>
 
-- 🌱 I'm currently working for the Department of Science and Technology - Advanced Science and Technology Institute
-- 📖 I'm reading about Software Architecture
-- 👯 I’m looking to collaborate on simple to medium size projects
+- 🌱 I'm looking for a job.
+- 📖 I'm reading about Software Design and Ruby on Rails.
 - 📫 How to reach me joseph.dev.ph@gmail.com
 
   
